@@ -25,14 +25,7 @@ public class First {
 		driver2.manage().window().maximize();
 		
 		
-		WebDriver driver;
 		
-		driver=new FirefoxDriver();
-		driver.get("http://facebook.com");
-		
-		driver=new ChromeDriver();
-		driver.get("");
-
 	}
 
 }
